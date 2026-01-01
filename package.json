@@ -161,7 +161,7 @@
         "pub:release": "git push origin main && git push --tags"
     },
     "devDependencies": {
-        "@eslint/js": "^9.37.0",
+        "@eslint/js": "^9.39.2",
         "@favware/cliff-jumper": "^6.0.0",
         "@stylistic/eslint-plugin": "^5.4.0",
         "@types/mocha": "^10.0.10",
